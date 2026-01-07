@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.6.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# T-o-thi-p-c-i-online
+Phần mềm tạo thiệp cưới online 
+>>>>>>> 014335b21ba0408293ef0cd343c52a61d11a3724
